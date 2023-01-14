@@ -1,0 +1,11 @@
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+urllib.request
+webbrowser
+sklearn
+descartes
+geopandas
+shapely
